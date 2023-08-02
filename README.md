@@ -17,11 +17,11 @@ The internet serves as a fundamental tool for education. It plays a pivotal role
 
 
 ## Datasets: 
-*   [INEP: Microdados da Educação Básica 2022]([url](https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados))
-*   [MegaEdu: Medidor de Velocidade]([url](https://docs.google.com/spreadsheets/d/1IQDWKSJL2HuAR7NuG1FMpm7sXlKMhYfn/edit?usp=share_link&ouid=106849837385039342292&rtpof=true&sd=true)https://docs.google.com/spreadsheets/d/1IQDWKSJL2HuAR7NuG1FMpm7sXlKMhYfn/edit?usp=share_link&ouid=106849837385039342292&rtpof=true&sd=true)
+*   INEP: Microdados da Educação Básica 2022 - https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados
+*   MegaEdu: Medidor de Velocidade - https://docs.google.com/spreadsheets/d/1IQDWKSJL2HuAR7NuG1FMpm7sXlKMhYfn/edit?usp=share_link&ouid=106849837385039342292&rtpof=true&sd=true)https://docs.google.com/spreadsheets/d/1IQDWKSJL2HuAR7NuG1FMpm7sXlKMhYfn/edit?usp=share_link&ouid=106849837385039342292&rtpof=true&sd=true
 
 ## Data Viz:
-[Tableau]([url](https://public.tableau.com/views/Conectivity_Brazilian_Public_Schools_Tableau/Insights?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/Conectivity_Brazilian_Public_Schools_Tableau/Insights?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
+Tableau: https://public.tableau.com/views/Conectivity_Brazilian_Public_Schools_Tableau/Insights?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/Conectivity_Brazilian_Public_Schools_Tableau/Insights?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/mayumi-kobayashi/
